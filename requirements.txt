@@ -2,3 +2,6 @@ Text based chat
 Video chat
 File sharing option
 Voice based
+Dark Theme
+Emoji Support
+Chat group support
